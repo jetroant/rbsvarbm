@@ -37,6 +37,6 @@ install.packages("devtools")
 After devtools is installed, install and load the package by:
 
 ```
-devtools::install_github("jetroant/rbsvar")
-library(rbsvar)
+devtools::install_github("jetroant/rbsvarbm")
+library(rbsvarbm)
 ```

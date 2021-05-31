@@ -1,6 +1,6 @@
 # rbsvar_bm
 
-This is a less stable version of 'rbsvar' (see https://github.com/jetroant/rbsvar), an R-package for Bayesian estimation of statistically identified robust structural vectorautoregressive models. 'rbsvar_bm' includes new features not yet implemented in 'rbsvar' Most notably, 'bm' stands for 'bigmemory' (R-package), which allows for file backed memory structures, whenever memory becomes a limiting factor when estimating big models.
+This is a less stable version of ```rbsvar``` (see https://github.com/jetroant/rbsvar), an R-package for Bayesian estimation of statistically identified robust structural vectorautoregressive models. ```rbsvar_bm``` includes new features not yet implemented in ```rbsvar``` Most notably, ```bm``` stands for ```bigmemory``` (R-package), which allows for file backed memory structures, whenever memory becomes a limiting factor when estimating big models.
 
 ## Getting Started
 
